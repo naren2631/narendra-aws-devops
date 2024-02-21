@@ -1,0 +1,5 @@
+In previous years applications developement and Delivery process takes place by using stand aloneservers,That means a system administartor will establish a server and and server administrator willinstall the applications which are needed to run the Project related things.
+            The apps which were devloped by developers were deployed into servers and also distributed to external world through internet.In this process so many team members were involved to maintain the servers.
+                If there is a failure of occurs like servers non responsive due to heavy load on peak utilization period,Issue due to updates failure in servers,failure of storage drivers etc the application delivery get impacted.
+                    So In order to minimise the issue company started adopting cloud storage where source code get stored in a cloud location and provided proper security to files.
+                        The most popular code storagelocation provider is Github.
